@@ -4,7 +4,38 @@
         "img":"https://1.bp.blogspot.com/-m-cYkRmbWTA/XmaQSA20_wI/AAAAAAAAA_U/IxvuMuRncOAu5QVhzykZz-2Wfzfv9b9ogCNcBGAsYHQ/s1600/c%2Bprogramming%2Blanguage%2Bbasics%2Btutorial%2Bfor%2Bbeginners.jpg",
         "reveow":"",
         "body":"You can also use variant modifiers to target media queries like responsive breakpoints, dark mode, prefers-reduced-motion, and more. For example, use md:flex-row to apply the flex-row utility at only medium screen sizes and above.",
-        "price":"",
+        "price":"250",
+        "subject":"8",
+        "class":"58",
+        "mcq":"100+",
+        "teachers":[
+            {
+              "teacher1":"mamunur",
+              "work":"this compani"
+            },
+            {
+              "teacher1":"mamunur",
+              "work":"this compani"
+            },
+            {
+              "teacher1":"mamunur",
+              "work":"this compani"
+            },
+            {
+              "teacher1":"mamunur",
+              "work":"this compani"
+            },
+            {
+              "teacher1":"mamunur",
+              "work":"this compani"
+            },
+            {
+              "teacher1":"mamunur",
+              "work":"this compani"
+            }
+        ],
+
+        "inroll":"1000+",
         "id":"01"
     },
     {
