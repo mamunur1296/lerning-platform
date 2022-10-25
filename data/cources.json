@@ -6,32 +6,51 @@
         "body":"You can also use variant modifiers to target media queries like responsive breakpoints, dark mode, prefers-reduced-motion, and more. For example, use md:flex-row to apply the flex-row utility at only medium screen sizes and above.",
         "price":"250",
         "subject":"8",
-        "class":"58",
+        "class":"58+",
         "mcq":"100+",
         "teachers":[
             {
-              "teacher1":"mamunur",
-              "work":"this compani"
+              "teacher1":"MD: Mamunur Rushid ( C ) ",
+              "work":"work from All-IT-BD"
             },
             {
-              "teacher1":"mamunur",
-              "work":"this compani"
+              "teacher1":"MD: Mamunur Rushid  ( C )",
+              "work":"work from All-IT-BD"
             },
             {
-              "teacher1":"mamunur",
-              "work":"this compani"
+              "teacher1":"MD: Mamunur Rushid  ( C )",
+              "work":"work from All-IT-BD"
             },
             {
-              "teacher1":"mamunur",
-              "work":"this compani"
+              "teacher1":"MD: Mamunur Rushid ( C ) ",
+              "work":"work from All-IT-BD"
             },
             {
-              "teacher1":"mamunur",
-              "work":"this compani"
+              "teacher1":"MD: Mamunur Rushid  ( C )",
+              "work":"work from All-IT-BD"
             },
             {
-              "teacher1":"mamunur",
-              "work":"this compani"
+              "teacher1":"MD: Mamunur Rushid  ( C )",
+              "work":"work from All-IT-BD"
+            }
+            
+        ],
+        "community":[
+            {
+              "title":"Facebook Group",
+              "link":"www.Facebook.com"
+            },
+            {
+              "title":"linkedin Group",
+              "link":"www.linkedin.com"
+            },
+            {
+              "title":"twitter pages",
+              "link":"www.twitter.com"
+            },
+            {
+              "title":"Instagram pages",
+              "link":"www.instagram.com"
             }
         ],
 
@@ -44,6 +63,57 @@
         "reveow":"",
         "body":"You can also use variant modifiers to target media queries like responsive breakpoints, dark mode, prefers-reduced-motion, and more. For example, use md:flex-row to apply the flex-row utility at only medium screen sizes and above.",
         "price":"",
+         "teachers":[
+            {
+              "teacher1":"MD: Mamunur Rushid ( C++) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( C++) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( C++) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( C++) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( C++) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( C++) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( C++) ",
+              "work":"work from All-IT-BD"
+            }
+            
+            
+            
+        ],
+        "community":[
+            {
+              "title":"Facebook Group",
+              "link":"www.Facebook.com"
+            },
+            {
+              "title":"linkedin Group",
+              "link":"www.linkedin.com"
+            },
+            {
+              "title":"twitter pages",
+              "link":"www.twitter.com"
+            },
+            {
+              "title":"Instagram pages",
+              "link":"www.instagram.com"
+            }
+        ],
         "id":"02"
     },
     {
@@ -52,6 +122,61 @@
         "reveow":"",
         "body":"You can also use variant modifiers to target media queries like responsive breakpoints, dark mode, prefers-reduced-motion, and more. For example, use md:flex-row to apply the flex-row utility at only medium screen sizes and above.",
         "price":"",
+         "teachers":[
+            {
+              "teacher1":"MD: Mamunur Rushid ( Java ) ",
+              "work":"work from All-IT-BD"
+            },
+            
+            {
+              "teacher1":"MD: Mamunur Rushid ( Java ) ",
+              "work":"work from All-IT-BD"
+            },
+            
+            {
+              "teacher1":"MD: Mamunur Rushid ( Java ) ",
+              "work":"work from All-IT-BD"
+            },
+            
+            {
+              "teacher1":"MD: Mamunur Rushid ( Java ) ",
+              "work":"work from All-IT-BD"
+            },
+            
+            {
+              "teacher1":"MD: Mamunur Rushid ( Java ) ",
+              "work":"work from All-IT-BD"
+            },
+            
+            {
+              "teacher1":"MD: Mamunur Rushid ( Java ) ",
+              "work":"work from All-IT-BD"
+            },
+            
+            {
+              "teacher1":"MD: Mamunur Rushid ( Java ) ",
+              "work":"work from All-IT-BD"
+            }
+            
+        ],
+        "community":[
+            {
+              "title":"Facebook Group",
+              "link":"www.Facebook.com"
+            },
+            {
+              "title":"linkedin Group",
+              "link":"www.linkedin.com"
+            },
+            {
+              "title":"twitter pages",
+              "link":"www.twitter.com"
+            },
+            {
+              "title":"Instagram pages",
+              "link":"www.instagram.com"
+            }
+        ],
         "id":"03"
     },
     {
@@ -60,6 +185,55 @@
         "reveow":"",
         "body":"You can also use variant modifiers to target media queries like responsive breakpoints, dark mode, prefers-reduced-motion, and more. For example, use md:flex-row to apply the flex-row utility at only medium screen sizes and above.",
         "price":"",
+         "teachers":[
+            {
+              "teacher1":"MD: Mamunur Rushid ( JS ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( JS ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( JS ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( JS ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( JS ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( JS ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( JS ) ",
+              "work":"work from All-IT-BD"
+            }
+            
+        ],
+        "community":[
+            {
+              "title":"Facebook Group",
+              "link":"www.Facebook.com"
+            },
+            {
+              "title":"linkedin Group",
+              "link":"www.linkedin.com"
+            },
+            {
+              "title":"twitter pages",
+              "link":"www.twitter.com"
+            },
+            {
+              "title":"Instagram pages",
+              "link":"www.instagram.com"
+            }
+        ],
         "id":"04"
     },
     {
@@ -68,6 +242,55 @@
         "reveow":"",
         "body":"You can also use variant modifiers to target media queries like responsive breakpoints, dark mode, prefers-reduced-motion, and more. For example, use md:flex-row to apply the flex-row utility at only medium screen sizes and above.",
         "price":"",
+         "teachers":[
+            {
+              "teacher1":"MD: Mamunur Rushid ( Python ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( Python ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( Python ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( Python ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( Python ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( Python ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( Python ) ",
+              "work":"work from All-IT-BD"
+            }
+            
+        ],
+        "community":[
+            {
+              "title":"Facebook Group",
+              "link":"www.Facebook.com"
+            },
+            {
+              "title":"linkedin Group",
+              "link":"www.linkedin.com"
+            },
+            {
+              "title":"twitter pages",
+              "link":"www.twitter.com"
+            },
+            {
+              "title":"Instagram pages",
+              "link":"www.instagram.com"
+            }
+        ],
         "id":"05"
     },
     {
@@ -76,6 +299,55 @@
         "reveow":"",
         "body":"You can also use variant modifiers to target media queries like responsive breakpoints, dark mode, prefers-reduced-motion, and more. For example, use md:flex-row to apply the flex-row utility at only medium screen sizes and above.",
         "price":"",
+         "teachers":[
+            {
+              "teacher1":"MD: Mamunur Rushid ( PHP ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( PHP ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( PHP ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( PHP ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( PHP ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( PHP ) ",
+              "work":"work from All-IT-BD"
+            },
+            {
+              "teacher1":"MD: Mamunur Rushid ( PHP ) ",
+              "work":"work from All-IT-BD"
+            }
+            
+        ],
+        "community":[
+            {
+              "title":"Facebook Group",
+              "link":"www.Facebook.com"
+            },
+            {
+              "title":"linkedin Group",
+              "link":"www.linkedin.com"
+            },
+            {
+              "title":"twitter pages",
+              "link":"www.twitter.com"
+            },
+            {
+              "title":"Instagram pages",
+              "link":"www.instagram.com"
+            }
+        ],
         "id":"06"
     }
 ]
