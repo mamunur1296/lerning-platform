@@ -4,6 +4,7 @@ const app = express();
 const port = process.env.PROT || 5000;
 const cources = require("./data/cources.json");
 
+app.use(cors());
 app.get("/allcources", (req, res) => {
   res.send(cources);
 });
